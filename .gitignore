@@ -1,0 +1,61 @@
+# -----------------------------
+# Visual Studio / Rider / VSCode
+# -----------------------------
+.vs/
+.idea/
+.vscode/
+
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.VC.opendb
+
+# -----------------------------
+# .NET build outputs
+# -----------------------------
+**/bin/
+**/obj/
+**/[Dd]ebug*/
+**/[Rr]elease*/
+**/x86/
+**/x64/
+**/[Aa]ny[Cc][Pp][Uu]/
+**/TestResults/
+**/BenchmarkDotNet.Artifacts/
+
+# -----------------------------
+# NuGet
+# -----------------------------
+**/packages/
+*.nupkg
+*.snupkg
+
+# -----------------------------
+# Publish / packaging artifacts (WPF/MSIX/UWP-like)
+# -----------------------------
+**/publish/
+**/app.publish/
+**/AppPackages/
+*.appx
+*.appxbundle
+*.msix
+*.msixbundle
+*.msixupload
+
+# -----------------------------
+# Logs / temp / dumps
+# -----------------------------
+*.log
+*.tmp
+*.bak
+*.cache
+*.swp
+*.dmp
+
+# -----------------------------
+# Cursor
+# -----------------------------
+.cursor/
+
