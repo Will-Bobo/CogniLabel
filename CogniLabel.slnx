@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="CogniLabel.Tests.System/CogniLabel.Tests.System.csproj" />
+  <Project Path="CogniLabel.Tests/CogniLabel.Tests.csproj" />
   <Project Path="CogniLabel/CogniLabel.csproj" />
 </Solution>
